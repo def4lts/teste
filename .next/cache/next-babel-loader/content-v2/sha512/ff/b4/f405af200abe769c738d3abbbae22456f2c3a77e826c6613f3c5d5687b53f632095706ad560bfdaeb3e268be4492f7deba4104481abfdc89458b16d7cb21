@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { QueryClient } from \"react-query\";\nexport const queryClient = new QueryClient();","map":null,"metadata":{},"sourceType":"module"}

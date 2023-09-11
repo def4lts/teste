@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport { FormLogin } from \"../components/FormLogin\";\nexport default function SignIn() {\n  return /*#__PURE__*/_jsx(FormLogin, {});\n}","map":null,"metadata":{},"sourceType":"module"}
